@@ -1,0 +1,17 @@
+body
+{
+    overflow-x: hidden;
+    background: #fff ;
+    min-height: 100vh;
+    
+}
+
+.bgtd{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}
+
+.back{
+    position: relative;
+}
